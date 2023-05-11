@@ -1,0 +1,6 @@
+# ignore terraform dependency
+
+.terraform.lock.hcl
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
